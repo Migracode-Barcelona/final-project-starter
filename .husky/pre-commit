@@ -1,0 +1,2 @@
+
+npm run lint:fix --prefix web && npm run lint:fix --prefix api
