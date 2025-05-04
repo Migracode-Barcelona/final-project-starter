@@ -30,10 +30,18 @@ final-project-starter/
    ```bash
    cd final-project-starter
    ```
-3. Install dependencies for both the frontend and backend:
+3. Install dependencies in the root directory:
+   ```bash
+   npm install
+   ```
+4. Install dependencies for both the frontend and backend:
    ```bash
    npm install --prefix web
    npm install --prefix api
+   ```
+5. Run the prepare script to set up Husky:
+   ```bash
+   npm run prepare
    ```
 
 ### Development
