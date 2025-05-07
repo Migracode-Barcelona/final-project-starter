@@ -4,6 +4,8 @@
 
 This repository contains a starter template for your final project, including both a React frontend and an Express backend. The project is designed to be modular, scalable, and easy to maintain.
 
+To get started with this template just use the [Github UI](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to make a copy and get coding 🚀 
+
 ## Project Structure
 
 ```
